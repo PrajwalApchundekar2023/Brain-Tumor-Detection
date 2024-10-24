@@ -17,3 +17,6 @@ This project focuses on detecting brain tumors from MRI images using a deep lear
         Libraries: PyTorch, torchvision, numpy, pandas, PIL
         Tools: Jupyter Notebook, Anaconda Navigator
         Planned Integration: Flask for deploying the model as a web application
+
+## Acknowledgments
+    Special thanks to the open-source community for providing the tools and datasets used in this project.
